@@ -1,0 +1,17 @@
+{
+    "type":"record",
+    "name":"CoffeeOrder",
+    "namespace":"com.example.coffee",
+    "fields":[
+      {"name": "order_id", "type": "string"},
+      {"name": "store_id", "type": "string"},
+      {"name": "system", "type": "string"},
+      {"name": "drink", "type": "string"},
+      {"name": "quantity", "type": "int"},
+      {"name": "price", "type": "double"},
+      {"name":"timestamp", "type": "string"},
+      {"name": "customer_id", "type": "string"}
+
+      ]
+
+}

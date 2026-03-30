@@ -1,0 +1,4 @@
+kafka-python
+black
+confluent-kafka[avro]
+pyspark
